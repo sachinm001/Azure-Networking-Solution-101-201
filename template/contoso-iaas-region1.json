@@ -163,7 +163,7 @@
                 "autoUpgradeMinorVersion": true,
                 "settings": {
                     "fileUris": [
-                        "https://raw.githubusercontent.com/CloudLabsAI-Azure/AIW-Azure-Network-Solutions/main/template/psscript.ps1"
+                        "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/template/psscript.ps1"
                     ]
                 },
                 "protectedSettings": {
