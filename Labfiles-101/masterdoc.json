@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Azure Network Solutions-101",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-101/02.Gettingstarted.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-101/03.Provision%20your%20Azure%20Network%20Topology.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-101/04.%20Provision%20Hybrid%20Connectivity%20.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-101/05.%20Provision%20your%20application.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-101/06.Provision%20private%20access%20to%20PaaS%20resources.md",
+        "Order": 5
+      }
+    ]
+  }
+]
