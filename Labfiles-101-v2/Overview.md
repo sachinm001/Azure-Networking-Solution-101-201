@@ -28,16 +28,28 @@ Azure Networking Solutions provides a fundamental understanding of key networkin
 
 ## Solution Architecture
 
-![sentinel-architecture](../media/sentinel-architecture.png)
+
 
 ## Lab Context
 
 In this Hands-on Lab, you will learn about Azure networking fundamentals. You will get Hands-on experience with Azure resources and how to use networking resources and establish connections from Cloud to On-premise resources.
 
-### Exercise 1: Deploying Azure Sentinel and Onboarding Cloud Resources and Servers
+### Exercise 1: Getting Started with Azure 
 
-In this exercise, you will deploy the Log Analytics workspace and Microsoft Sentinel and also establish a connection between Windows and M365 data connectors to the Sentinel workspace.
+In this exercise, you will log in to the Azure Portal and review the pre-deployed resources that are part of the lab environment. 
 
-###  Exercise 2: Conducting log analytics and Threat Hunting
+### Exercise 2: Provision your Azure Network Topology (Platform and Application Landing Zone)
 
-In this exercise, you will define a hypothesis in Microsoft Sentinel and create hunts to detect the treats.
+In this exercise, you'll familiarize yourself with Virtual WAN, virtual Hub, and Virtual Network connections for your workloads
+
+###  Exercise 3: Provision Hybrid Connectivity 
+
+In this exercise, you will provision connectivity from on-premises to Azure via Site-to-Site VPN (S2S VPN), with static routing, and verify connectivity between on-premises and Azure. This lab will emulate an on-premises site using another separate VNet in Azure with a Virtual Network Gateway as the VPN device.  
+
+### Exercise 4: Validate access to your application on Azure 
+
+In this exercise, you will review the pre-deployed Virtual Machine on each spoke VNet, create network security group rules to allow required traffic and you will then test connectivity across your network. 
+
+### Exercise 5: Configure private access to PaaS resources 
+
+In this exercise, you will configure private access to PaaS Resources using the hybrid connectivity previously deployed and configure DNS resolution to properly access PaaS resources.
