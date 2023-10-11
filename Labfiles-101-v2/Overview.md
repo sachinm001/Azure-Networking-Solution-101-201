@@ -28,7 +28,7 @@ Azure Networking Solutions provides a fundamental understanding of key networkin
 
 ## Solution Architecture
 
-
+![](./Media/overview.png)
 
 ## Lab Context
 
