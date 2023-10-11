@@ -15,7 +15,11 @@ Azure Networking Solutions provides a fundamental understanding of key networkin
 
 ## Hands-on Labs Scenario
 
+Contoso Insurance is a well-known brand in the industry. They are planning to launch a new Contoso Insurance portal in the market to start providing their insurance services online. Their development team has already developed the portal. They are all set to launch their new Contoso Insurance portal. Before they launch it, they want to get it tested by internal and beta users. To start testing the application they have chosen Azure as their cloud platform as Azure offers a massive range of IaaS facilities required for any business like computing, networking, storage, security, and much more.
 
+Contoso wants to migrate its on-premises infrastructure to the Azure cloud to modernize its operations, improve scalability, and enhance security. Contoso needs to provision a comprehensive Azure Network Topology, including both the Platform and Application Landing Zone, to support its diverse workloads and applications as part of this digital transformation initiative. The company also needs to establish hybrid connectivity between its on-premises data center and the Microsoft Azure cloud to enable seamless data exchange, application deployment, and disaster recovery.
+
+They need your help to configure the infrastructure and deploy their developed application. You need to choose the right approach to set up and deploy their Insurance application on Azure as per the end-state Architecture given below. However, you will be doing it in phases as the development and testing progress. In the end, the Infrastructure of the required Azure resources for the Contoso Insurance Application must look the same as the below end-state Architecture.
 
 ## Azure services and related products
 
@@ -28,7 +32,7 @@ Azure Networking Solutions provides a fundamental understanding of key networkin
 
 ## Solution Architecture
 
-
+![](./Media/overview.png)
 
 ## Lab Context
 
