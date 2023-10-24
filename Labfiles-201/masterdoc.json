@@ -4,16 +4,20 @@
       "Language": "English",
       "Files": [
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-201/01.Provision%20user%20remote%20access%20to%20Azure.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-201/Gettingstarted.md",
           "Order": 1
-        },
+        },   
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-201/02.Expand%20to%20a%20second%20Azure%20Region.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-201/01.Provision%20user%20remote%20access%20to%20Azure.md",
           "Order": 2
         },
         {
-          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-201/03.Monitoring%20Azure%20Network.md",
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-201/02.Expand%20to%20a%20second%20Azure%20Region.md",
           "Order": 3
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Networking-Solution-101-201/main/Labfiles-201/03.Monitoring%20Azure%20Network.md",
+          "Order": 4
         }
       ]
     }
