@@ -14,8 +14,7 @@ Azure Networking Solutions provides a fundamental understanding of key networkin
 
   - **Private DNS Zone:** It provides a reliable, secure DNS service to manage and resolve domain names in a virtual network without the need to add a custom DNS solution.
 
-  - **DNS Forwarding Ruleset:** It is a setup with rules pointing to the on-prem dns zone and linked to hub vnet and using the private dns resolver outbound endpoint.
-
+  - **DNS Forwarding Ruleset:** It is a setup with rules pointing to the on-prem DNS zone and linked to hub vnet and using the private DNS resolver outbound endpoint.
 
 
 ## Hands-on Lab Scenario
@@ -57,4 +56,4 @@ In this exercise, you'll provision connectivity from on-premises to Azure via Si
 
 ### Exercise 4: Monitoring Azure Network
 
-In this exercise, you'll enable a Network Watcher and create Flow Logs to run Sample traffic and perform Sample network troubleshooting. You'll also deploy Log Analytics Workspace and Network Monitoring Solution to set up Azure Monitor Alerts and test notifications.
+In this exercise, you'll enable a Network Watcher and create Flow Logs to run Sample traffic. You'll also deploy Log Analytics Workspace and Network Monitoring Solution to set up Azure Monitor Alerts and test notifications.
