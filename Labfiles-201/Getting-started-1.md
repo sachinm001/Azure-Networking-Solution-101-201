@@ -83,6 +83,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
     
 1. Now, click on **Next** from the lower right corner to move to the next page.
 
+
 ## Summary
 
 In this exercise, you signed in to the Azure Portal and reviewed the pre-deployed resource groups.
