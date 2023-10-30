@@ -1,14 +1,12 @@
-# Exercise 1: Getting Started with Azure 
-
-## Overview
-
-In this exercise, you will log in to the Azure Portal and review the pre-deployed resources that are part of the lab environment.
-
-## Instructions
-
 ## **Getting Started with Azure Networking 201**
  
 Welcome to your Azure Networking 201 workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+
+## Overview
+
+In this exercise, you'll log in to the Azure Portal and review the pre-deployed resources that are part of the lab environment.
+
+## Instructions
  
 ## **Accessing Your Lab Environment**
  
