@@ -25,23 +25,23 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
 
 1. Let us start by logging into the Azure Portal to check the resources deployed for the lab environment. In the virtual machine (VM) on the left, click on the Azure portal desktop icon as shown below.
 
-   ![](../Labfiles-101-v2/Media/161.png)
+     ![](../Labfiles-101-v2/Media/161.png)
    
 1. On the **Sign in to Microsoft Azure** window, you will see the login screen, enter the following username and click on **Next**.
 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-      ![](../Labfiles-101-v2/Media/162.png)
+       ![](../Labfiles-101-v2/Media/162.png)
 
 1. Now enter the following password and click on **Sign in**. 
 
    * Password: <inject key="AzureAdUserPassword"></inject>
    
-      ![](../Labfiles-101-v2/Media/163.png)
+       ![](../Labfiles-101-v2/Media/163.png)
 
 1. First-time users are often prompted to **Stay Signed In**, if you see any such pop-up, click on **No**.
 
-   ![](../Labfiles-101-v2/Media/164.png)
+    ![](../Labfiles-101-v2/Media/164.png)
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
@@ -49,7 +49,7 @@ In this exercise, you will log in to the Azure Portal and review the pre-deploye
 
 1. Now you can see the Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 
-   ![](../media/resourcegroup.png)
+    ![](../media/resourcegroup.png)
 
 1. You should see this list of pre-deployed resource groups with resources that will be used in this lab:
 
