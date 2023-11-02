@@ -1,4 +1,4 @@
-## **Getting Started with Azure Networking 201**
+## **Getting Started with Azure Networking Solutions-201**
  
 Welcome to your Azure Networking Solutions-201 workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
 
