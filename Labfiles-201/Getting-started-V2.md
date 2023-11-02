@@ -1,6 +1,6 @@
 ## **Getting Started with Azure Networking 201**
  
-Welcome to your Azure Networking 201 workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+Welcome to your Azure Networking Solutions-201 workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
 
 ## Overview
 
@@ -12,7 +12,7 @@ In this exercise, you'll log in to the Azure Portal and review the pre-deployed 
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
-![](../media/y175.png)
+![](../media/y189.png)
 
 ## **Virtual Machine & Lab Guide**
  
@@ -28,13 +28,13 @@ To get a better understanding of your lab resources and credentials, navigate to
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** icon at the bottom right corner.
 
-![](../media/y177.png)
+![](../media/y188.png)
  
 ## **Managing Your Virtual Machine**
  
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
  
-![Manage Your Virtual Machine](../Images/res.png)
+![](../media/y190.png)
  
 ## **Let's Get Started with Azure Portal**
  
@@ -83,6 +83,7 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
     
 1. Now, click on **Next** from the lower right corner to move to the next page.
 
+   ![](../media/y191.png)
 
 ## Summary
 
