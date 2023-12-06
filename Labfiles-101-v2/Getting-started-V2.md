@@ -62,29 +62,29 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 1. If a **Welcome to Microsoft Azure** pop-up window appears, simply click **Maybe Later** to skip the tour.
 
 
+1. Now you can see the Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
+
+   ![](../media/resourcegroup.png)
+
 1. You should see this list of pre-deployed resource groups with resources that will be used in this lab:
 
-     ![](../media/y178.png)
+     ![](./Media/n2.png)
 
-   - **Onprem-RG-<inject key="DeploymentID" enableCopy="false"/>**: On-premises related resources, vNets, Lab-VM (with DNS role and Telnet client enabled), DB-VM (with SQL Express or MySQL) and Virtual Network Gateway.
+   - **Onprem-RG-<inject key="DeploymentID" enableCopy="false"/>**: On-premises related resources, vNets, Lab-VM (with DNS role and Telnet client enabled), DB-VM (with SQL Express or MySQL) and Virtual Network Gateway
 
-     ![](../Labfiles-101-v2/Media/102-1.png)
+      ![](./Media/102-1.png)
 
-   - **Prod-RG-<inject key="DeploymentID" enableCopy="false"/>**: Workload related: vm-Prod vNets, spoke1VM, spoke2VM, storage account etc.
+   - **Prod-RG-<inject key="DeploymentID" enableCopy="false"/>**: Workload related: vm-Prod vNets, vm-prod-001, vm-prod-002, storage account etc.
 
-      ![](../Labfiles-101-v2/Media/102-2.png)
+      ![](./Media/102-2.png)
 
-   - **Prod-RG2-<inject key="DeploymentID" enableCopy="false"/>**: Workload related: GatewayVnet, spoke3VM, spoke4VM, VPN, Log Analytics workspace, Local network gateway etc.
-    
-      ![](../media/y179.png)
-      
    - **Sharedservices-RG-<inject key="DeploymentID" enableCopy="false"/>**: Core network infrastructure related: virtual WAN and its related resources, VPN Gateway, DNSresolvevnet.
 
-      ![](../Labfiles-101-v2/Media/102-3.png)
+      ![](./Media/102-3.png)
     
 1. Now, click on **Next** from the lower right corner to move to the next page.
 
-   ![](../media/y191.png)
+   ![](./Media/166.png)
 
 ## Summary
 
