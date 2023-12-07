@@ -1,5 +1,5 @@
 
-## **Getting Started with Scalable Cloud Networking with Azure Virtual WAN Workshop**
+## **Exercise 1: Getting Started with Scalable Cloud Networking with Azure Virtual WAN Workshop**
  
 Welcome to your Scalable Cloud Networking with Azure Virtual WAN workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
 
