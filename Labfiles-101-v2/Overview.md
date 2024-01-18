@@ -1,4 +1,4 @@
-## Azure Networking Solutions - 101
+## Scalable Cloud Networking with Azure Virtual WAN
 
 Azure Networking Solutions provides a fundamental understanding of key networking concepts within the Microsoft Azure cloud platform. This overview serves as a primer for individuals and organizations looking to leverage Azure's networking capabilities to build secure, scalable, and highly available cloud environments.
 
