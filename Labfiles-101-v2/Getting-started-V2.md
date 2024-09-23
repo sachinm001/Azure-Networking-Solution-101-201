@@ -29,7 +29,7 @@ Participants should have:
 
 ## Architechture
 
-In a scalable cloud networking architecture with Azure Virtual WAN, a **Virtual Network** hosts **Virtual Machines** for application deployment, while a **Virtual Network Gateway** ensures secure connections between on-premises and Azure. A **DNS Private Resolver** and **Private DNS Zone** facilitate secure and efficient DNS resolution within the network, and **DNS Forwarding Rulesets** direct queries appropriately. This setup enhances connectivity, security, and scalability for cloud applications.
+In a scalable cloud networking architecture utilizing Azure Virtual WAN, a **Virtual Network** serves as the foundational layer, providing an isolated environment for resources. Within this network, **Virtual Machines** can be deployed to run applications and services, enabling dynamic scaling based on demand. A **Virtual Network Gateway** facilitates secure communication between on-premises networks and Azure, supporting both site-to-site VPN and ExpressRoute connections. To optimize DNS resolution within the Azure environment, a **DNS Private Resolver** is implemented, ensuring that domain name queries are handled securely and efficiently. Coupled with a **Private DNS Zone**, it enables resource names to be resolved without exposing them to the public internet. Finally, **DNS Forwarding Rulesets** are configured to direct DNS queries to the appropriate resolvers, allowing seamless access to resources across the network while maintaining privacy and security. This architecture not only enhances connectivity and security but also supports the scalability required for modern cloud applications.
 
 ## Architechture Diagram
 
