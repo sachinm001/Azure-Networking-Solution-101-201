@@ -1,43 +1,82 @@
+# Scalable Cloud Networking with Azure Virtual WAN
 
-# **Exercise 1: Getting Started with Scalable Cloud Networking with Azure Virtual WAN Workshop**
- 
-Welcome to your Scalable Cloud Networking with Azure Virtual WAN workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+### Overall Estimated Duration: 8 hours
 
 ## Overview
 
-In this exercise, you'll log in to the Azure Portal and review the pre-deployed resources that are part of the lab environment.
+Contoso Insurance is a well-known brand in the industry. They are planning to launch a new Contoso Insurance portal in the market to start providing their insurance services online. Their development team has already developed the portal. They are all set to launch their new Contoso Insurance portal. Before they launch it, they want to get it tested by internal and beta users. To start testing the application they have chosen Azure as their cloud platform as Azure offers a massive range of IaaS facilities required for any business like computing, networking, storage, security, and much more.
 
-## Instructions
+Contoso wants to migrate its on-premises infrastructure to the Azure cloud to modernize its operations, improve scalability, and enhance security. Contoso needs to provision a comprehensive Azure Network Topology, including both the Platform and Application Landing Zone, to support its diverse workloads and applications as part of this digital transformation initiative. The company also needs to establish hybrid connectivity between its on-premises data center and the Microsoft Azure cloud to enable seamless data exchange, application deployment, and disaster recovery.
+
+## Objective
+
+In this Hands-on Lab, you will learn about Azure networking fundamentals. You will get Hands-on experience with Azure resources and how to use networking resources and establish connections from Cloud to On-premise resources.
+
+- Provision your Azure Network Topology (Platform and Application Landing Zone)
+- Provision Hybrid Connectivity
+- Validate access to your application on Azure
+- Configure private access to PaaS resources
+
+## Prerequisites
+
+Participants should have:
+
+-
+-
+-
+
+## Architechture
+
+
+
+## Architechture Diagram
+
+![](./Media/overview.png)
+
+## Explanation of Components
+
+The architecture for this lab involves the following key components:
+
+- **Virtual Network:** An Azure Virtual Network (VNet) is a network or environment that can be used to run VMs and applications in the cloud. When it is created, the services and Virtual Machines within the Azure network interact securely with each other, the internet, and on-premises networks.
+- **Virtual Network Gateway:** It is a service used to send encrypted traffic between an Azure virtual network and on-premises locations over the public Internet.
+- **Virtual WAN:** It is a service that brings many networking, security, and routing functionalities together to provide a single operational interface.
+- **DNS Private Resolver:** It is a service that bridges an on-premises DNS with Azure DNS.
+- **Private DNS Zone:** It provides a reliable, secure DNS service to manage and resolve domain names in a virtual network without the need to add a custom DNS solution.
+- **DNS Forwarding Ruleset:** It is a setup with rules pointing to the on-prem dns zone and linked to hub vnet and using the private dns resolver outbound endpoint.
+
+## Getting Started with the Lab
+
+Welcome to your Scalable Cloud Networking with Azure Virtual WAN workshop! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
  
-## **Accessing Your Lab Environment**
+## Accessing Your Lab Environment
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
 ![](../media/y189.png)
 
-## **Virtual Machine & Lab Guide**
+### Virtual Machine & Lab Guide
  
 Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
  
-## **Exploring Your Lab Resources**
+## Exploring Your Lab Resources
  
-To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
+To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
  ![](./Media/159.png)
  
-## **Utilizing the Split Window Feature**
+## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** icon at the bottom right corner.
 
 ![](../media/y188.png)
  
-## **Managing Your Virtual Machine**
+## Managing Your Virtual Machine
  
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
  
 ![](../media/y190.png)
  
-## **Let's Get Started with Azure Portal**
+## Let's Get Started with Azure Portal
  
 1. On your virtual machine, click on the Azure Portal icon as shown below:
  
@@ -82,12 +121,20 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
       ![](./Media/102-3.png)
     
-1. Now, click on **Next** from the lower right corner to move to the next page.
+## Support Contact
+ 
+The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
 
-   ![](./Media/166.png)
+Learner Support Contacts:
+- Email Support: labs-support@spektrasystems.com
+- Live Chat Support: https://cloudlabs.ai/labs-support
 
-## Summary
+Now, click on **Next** from the lower right corner to move on to the next page.
 
-In this exercise, you signed in to the Azure Portal and reviewed the pre-deployed resource groups.
+![](./Media/lab-next.png)
 
-Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
+### Happy Learning!!
+
+
+
+
