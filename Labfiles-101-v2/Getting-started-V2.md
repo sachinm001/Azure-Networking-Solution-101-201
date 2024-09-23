@@ -12,18 +12,20 @@ Contoso wants to migrate its on-premises infrastructure to the Azure cloud to mo
 
 In this Hands-on Lab, you will learn about Azure networking fundamentals. You will get Hands-on experience with Azure resources and how to use networking resources and establish connections from Cloud to On-premise resources.
 
-- Provision your Azure Network Topology (Platform and Application Landing Zone)
-- Provision Hybrid Connectivity
-- Validate access to your application on Azure
-- Configure private access to PaaS resources
+- **Provision your Azure Network Topology (Platform and Application Landing Zone):** Set up a structured network environment using Azure Virtual WAN for efficient connectivity across platforms and applications, enabling scalable and flexible networking solutions.
+- **Provision Hybrid Connectivity:** Establish seamless hybrid connections between on-premises infrastructure and Azure to enhance network integration, facilitating a smooth transition to cloud-based resources.
+- **Validate access to your application on Azure:** Confirm that users can reliably access Azure-hosted applications, ensuring optimal performance and availability while monitoring for potential access issues.
+- **Configure private access to PaaS resources:** Implement private endpoints to secure and optimize access to Azure PaaS resources, enhancing data protection and compliance while reducing exposure to public internet vulnerabilities.
 
 ## Prerequisites
 
 Participants should have:
 
--
--
--
+- **Basic Networking Knowledge:** Understanding of networking concepts such as IP addressing, routing, and VPNs.
+- **Familiarity with Azure Portal:** Proficiency in navigating the Azure Portal to create and manage resources.
+- **Knowledge of Azure Virtual WAN:** Awareness of Azure Virtual WAN architecture, components, and capabilities.
+- **Understanding of Hybrid Environments:** Familiarity with hybrid cloud strategies and how on-premises networks integrate with Azure.
+- **Security Best Practices:** Knowledge of cloud security principles and best practices for securing network access and data.
 
 ## Architechture
 
